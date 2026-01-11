@@ -1,0 +1,7 @@
+torch
+transformers
+pillow
+lancedb
+opencv-python
+streamlit
+numpy
